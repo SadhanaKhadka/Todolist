@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css">
 <div id="d1">
-<h1>@copy right: 2023 Nagarjuna College of IT</h1>
+<h1>@copy right: 2023 XYZ Educational Institution</h1>
 </div>
 <style>
 	h1{
